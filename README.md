@@ -28,8 +28,8 @@
 🔍 Used Skill & Tool
 
 `STS3` `Oracle-Cloud` `DBeaver` `git` `JSP` `HTML` `CSS` `Javascript` `JQuery` `Ajax`  `Spring` `MyBatis` `Maven` `Apache Tomcat`
+![1](https://user-images.githubusercontent.com/95195401/159395774-4e6b6678-101e-4eab-974b-f1151d2e5c33.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6706ba39-a73e-4787-8579-6ace172c908f/Untitled.png)
 
 ## 🌱 Project Development Environment
 
@@ -206,8 +206,4 @@
         ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0112a6b-6edc-46e0-9e2b-8f8482acf692/Untitled.png)
         
 
----
 
-## 🌱 **Git hub**
-
-[https://github.com/jinnnnkim/TeamKurly](https://github.com/jinnnnkim/TeamKurly)
