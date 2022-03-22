@@ -188,16 +188,16 @@
     - 주문하기 클릭 시, 주문 내역 페이지로 이동
     
 ![27](https://user-images.githubusercontent.com/95195401/159396289-1412f58f-1c23-4fbc-871a-67f7072c9de6.png)
-    
+![28](https://user-images.githubusercontent.com/95195401/159396298-85568648-fd56-40c8-870b-8f6363fe6ce8.png)
+
     - 카카오페이 결제 API를 활용하였음
         - 카카오페이 클릭 시, 카카오 결제 시스템 기능 구현
         
-![28](https://user-images.githubusercontent.com/95195401/159396298-85568648-fd56-40c8-870b-8f6363fe6ce8.png)
+![29](https://user-images.githubusercontent.com/95195401/159396313-05c5c0ef-3214-4dac-bf98-834a5be81a2b.png)
         
     - 주문 내역 페이지에서 상품 담기 및 취소 기능 구현
         - 1:1 문의 페이지 이동 가능
         
-![29](https://user-images.githubusercontent.com/95195401/159396313-05c5c0ef-3214-4dac-bf98-834a5be81a2b.png)
 ![30](https://user-images.githubusercontent.com/95195401/159396393-001a4d95-7149-4ff8-b877-b2c3f58fd0dc.png)
 
         
