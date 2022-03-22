@@ -198,7 +198,7 @@
         - 1:1 문의 페이지 이동 가능
         
 ![29](https://user-images.githubusercontent.com/95195401/159396313-05c5c0ef-3214-4dac-bf98-834a5be81a2b.png)
-![Uploading 30.png…]()
+![30](https://user-images.githubusercontent.com/95195401/159396393-001a4d95-7149-4ff8-b877-b2c3f58fd0dc.png)
 
         
 
