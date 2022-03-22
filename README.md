@@ -35,7 +35,7 @@
 
 - Project Development Step
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e50485a2-8a4f-42e0-b691-3c1ef7413fc0/Untitled.png)
+!(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e50485a2-8a4f-42e0-b691-3c1ef7413fc0/Untitled.png)
 
 - Used API
 
